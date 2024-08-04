@@ -1,0 +1,9 @@
+/node_modules
+.env
+.next
+/log
+/logs
+coverage
+/public/static/
+/public/docs/*
+/dist
